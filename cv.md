@@ -59,3 +59,20 @@ Example code
     return 0;
     }
 ```
+
+Work experience
+---------------
+Application of differential equations in physicals processes. My work focused on translating the laws of classical mechanics into math models.
+
+My courses
+----------
+
+*   C++
+*   Python
+*   English
+
+English level
+-------------
+*   B2
+
+
