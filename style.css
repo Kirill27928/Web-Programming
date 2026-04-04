@@ -1,1 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Jost:ital,wght@0,300;0,400;0,500;1,300&display=swap');
 
+:root {
+  --dark: #272727;
+  --gold: #e2b67a;
+  --gold-2: #efc58b;
+  --light: #ededed;
+  --muted: #c2c2c2;
+  --text: #272727;
+
+  --sans: 'Futura PT', 'Jost', 'Helvetica Neue', Arial, sans-serif;
+  --serif: 'Forum', Georgia, serif;
+  --ui: 'Segoe UI', 'Jost', 'Helvetica Neue', Arial, sans-serif;
+}
